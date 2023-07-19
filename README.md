@@ -11,6 +11,13 @@ For those who have little to no experience in modding, and just want to get the 
 
 ![NIJIENPACK](https://cdn.discordapp.com/attachments/1122734119256854602/1131310341406597261/image.png)
 
+- Next you will want to open the Optifine installation file, double click on it.
+
+![OptifineJar](https://cdn.discordapp.com/attachments/1131312669773795428/1131312685519220747/image.png)
+
+- You should be able to simply click "Install" and Optifine will be installed.
+
+![OptifineInstall](https://cdn.discordapp.com/attachments/1131312669773795428/1131313029322117190/image.png)
 
 ## Fabric Installation (Advanced)
 

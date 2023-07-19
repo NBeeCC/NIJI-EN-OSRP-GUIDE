@@ -1,5 +1,6 @@
-# NIJI-EN-RP-GUIDE
-NIJISANJI EN Resource Pack Installation Guide
+# NIJISANJI EN Resource Pack Installation Guide
+
+There are 2 ways to install this pack for it to work properly. The first is an Optifine Install, which is a simple easy method for those new to modded Minecraft, and the second a Fabric Install for those who use other mods or don't like Optifine. We recommend using Optifine!
 
 ## Optifine Installation (Easy)
 

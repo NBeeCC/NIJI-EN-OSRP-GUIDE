@@ -61,3 +61,4 @@ Select the [Optifine](https://optifine.net/downloads) version for the Minecraft 
 ## Fabric Installation (Advanced)
 
 For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader.
+[WIP]

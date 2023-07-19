@@ -21,6 +21,12 @@ Select the [Optifine](https://optifine.net/downloads) version for the Minecraft 
 
 ![OptifineInstall](https://cdn.discordapp.com/attachments/1131312669773795428/1131313029322117190/image.png)
 
+- Next open up your Minecraft Launcher, there the "OptiFine" profile should already be selected, if it is not, change the profile so it has the right version you chose.
+![Minecraft Launcher](https://cdn.discordapp.com/attachments/1131312669773795428/1131314604077756517/image.png)
+
+- Launch the game! It will take a little while to install. The pack will not yet be installed, but Optifine should be installed.
+- Once the game launches
+
 ## Fabric Installation (Advanced)
 
 For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader.

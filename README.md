@@ -4,7 +4,7 @@ There are 2 ways to install this pack for it to work properly. The first is an O
 
 ## Optifine Installation (Easy)
 
-For those who have little to no experience in modding, and just want to get the pack working properly with less effort.
+For those who have little to no experience in modding, and just want to get the pack working properly with less effort. Alternatively you can also watch the [YouTube Tutorial](https://youtu.be/dTARzDoH3G4).
 
 - First you will want to download both Optifine and the Resource Pack. 
 

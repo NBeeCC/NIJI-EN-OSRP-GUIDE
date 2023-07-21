@@ -2,7 +2,7 @@
 
 There are 2 ways to install this pack for it to work properly. The first is an Optifine Install, which is a simple easy method for those new to modded Minecraft, and the second a Fabric Install for those who use other mods or don't like Optifine. We recommend using Optifine!
 
-## Optifine Installation (Easy)
+# Optifine Installation (Easy)
 
 For those who have little to no experience in modding, and just want to get the pack working properly with less effort. Alternatively you can also watch the [YouTube Tutorial](https://youtu.be/dTARzDoH3G4).
 
@@ -27,7 +27,7 @@ Select the [Optifine](https://optifine.net/downloads) version for the Minecraft 
 - Next open up your Minecraft Launcher, there the "OptiFine" profile should already be selected, if it is not, change the profile so it has the right version you chose.
 ![Minecraft Launcher](https://cdn.discordapp.com/attachments/1131312669773795428/1131314604077756517/image.png)
 
-- Launch the game! It will take a little while to install. The pack will not yet be installed, but Optifine should be installed.
+- Click on "PLAY". It may give you a warning about a modified Java Edition installation, click on "I understand the risks, don't warn me again" and click Play. It will take a little while to install. The pack will not yet be installed, but Optifine should be installed.
 - Once the game launches, if you properly launched Optifine you should see Minecraft ____ (Modded) on the bottom left corner.
 
 ![Minecraft](https://cdn.discordapp.com/attachments/1131312669773795428/1131317416085962782/2023-07-19_15.09.27.png)
@@ -59,7 +59,29 @@ Select the [Optifine](https://optifine.net/downloads) version for the Minecraft 
 
 ![Done](https://cdn.discordapp.com/attachments/1131312669773795428/1131325550728839219/2023-07-19_15.43.16.png)
 
-## Fabric Installation (Advanced)
+# Fabric Installation (Advanced)
 
 For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader.
-[WIP]
+- First you want to download the [NIJISANJI EN MOBS & ITEMS](https://modrinth.com/resourcepack/project-nijisanji-en-osrp/version/sD3QuNkx) pack for the Minecraft version you want. Place it in a folder you can access easily.
+- Secondly download the [Fabric Loader](https://fabricmc.net/use/installer/). For the purposes of this tutorial we will use the installer. Place it in the same folder as the Resource Pack.
+![FabricJar](https://cdn.discordapp.com/attachments/1131312669773795428/1132093341840973884/image.png)
+
+You should be able to see them both.
+
+![Fabric+Pack](https://cdn.discordapp.com/attachments/1131312669773795428/1132094537213419630/image.png)
+
+- Next, open (double click) on the "fabric-installer" file, this should open a window. Making sure you're in the "Client" tab. In there select which Minecraft version you want. Don't worry about Loader Version, it should automatically be the right one, and make sure the box for "Create Profile" is ticked.
+
+![FabricInstall](https://cdn.discordapp.com/attachments/1131312669773795428/1132095735467348058/image.png)
+
+- Press Install, and it should pop up a window saying "Successfully Installed" confirming the right version you chose. Click Ok and close the "Fabric Installer" window.
+
+- Open up your Minecraft launcher. 
+
+![FabricLaunchermC](https://cdn.discordapp.com/attachments/1131312669773795428/1132096679777161336/image.png)
+
+- There the profile for "fabric-loader" with an icon depicting "fabric" should be already selected. If it is not, select it from the list by clicking on the drop-down arrow. If you see no such profile, repeat the previous steps and make sure the "Create Profile" box is ticked. 
+
+- Click on "PLAY". It may give you a warning about a modified Java Edition installation, click on "I understand the risks, don't warn me again" and click Play
+
+- It will take a little to load, but once in you should see text on the bottom left of the Minecraft Title screen indicating "Minecraft ____ (Modded/Fabric)

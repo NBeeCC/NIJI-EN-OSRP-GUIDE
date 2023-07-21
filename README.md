@@ -59,6 +59,8 @@ Select the [Optifine](https://optifine.net/downloads) version for the Minecraft 
 
 ![Done](https://cdn.discordapp.com/attachments/1131312669773795428/1131325550728839219/2023-07-19_15.43.16.png)
 
+You should also make sure to go to Options > Video Settings and > Quality and turn on any option that says "Custom" on it. These will allow you to see the Custom Entities and Custom Items in the pack.
+
 # Fabric Installation (Advanced)
 
 For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader.

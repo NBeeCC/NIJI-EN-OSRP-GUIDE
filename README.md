@@ -6,8 +6,8 @@ There are 2 ways to install this pack for it to work properly. The first is an [
 
 ## OptiFine
 
-[OptiFine Install Guide](Optifine_Guide.md)
+[OptiFine Install Guide]([Optifine_Guide.md](https://github.com/NBeeCC/NIJI-EN-OSRP-GUIDE/blob/main/OptiFine_Guide.md)https://github.com/NBeeCC/NIJI-EN-OSRP-GUIDE/blob/main/OptiFine_Guide.md)
 
 ## Fabric
 
-[Fabric Install Guide](Fabric_Guide.md)
+[Fabric Install Guide]([Fabric_Guide.md](https://github.com/NBeeCC/NIJI-EN-OSRP-GUIDE/blob/main/Fabric_Guide.md)https://github.com/NBeeCC/NIJI-EN-OSRP-GUIDE/blob/main/Fabric_Guide.md)

@@ -150,5 +150,7 @@ You should be able to see them both.
 
 - Once it loads, you should come to see a Minecraft Title Screen with "Minecraft ____/Fabric (Modded)" written in the bottom left corner, a custom Title and Panorama, and loading into a world you'll see the textures and models of multiple mobs have changed!
 
+![TitleFabricModsMinecraft](https://cdn.discordapp.com/attachments/1131312669773795428/1132112729461755904/2023-07-21_19.50.14.png)
+
 
 

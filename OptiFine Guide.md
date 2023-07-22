@@ -1,6 +1,4 @@
-# NIJISANJI EN Resource Pack Installation Guide
-
-There are 2 ways to install this pack for it to work properly. The first is an Optifine Install, which is a simple easy method for those new to modded Minecraft, and the second a Fabric Install for those who use other mods or don't like Optifine. We recommend using Optifine! Do note that for these guides, you will have to have installed a Vanilla or unmodded version of Minecraft matching the version you wish to use first before performing these steps, simply open up the Minecraft launcher, select a version and press "PLAY", once it loads you may quit out from the game and begin these steps.
+>[NOTE: for these guides, you will have to have installed a Vanilla or unmodded version of Minecraft matching the version you wish to use first before performing these steps, simply open up the Minecraft launcher, select a version and press "PLAY", once it loads you may quit out from the game and begin these steps.]
 
 # Optifine Installation (Easy)
 

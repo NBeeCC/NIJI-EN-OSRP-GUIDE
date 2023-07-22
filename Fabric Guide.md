@@ -1,3 +1,5 @@
+>[NOTE: for these guides, you will have to have installed a Vanilla or unmodded version of Minecraft matching the version you wish to use first before performing these steps, simply open up the Minecraft launcher, select a version and press "PLAY", once it loads you may quit out from the game and begin these steps.]
+
 # Fabric Installation (Advanced)
 
 ## Fabric Loader

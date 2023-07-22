@@ -4,7 +4,8 @@
 
 ## Fabric Loader
 
-For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader.
+For those who already use modded Minecraft with Fabric, this installation guide will show you how to get the pack working with the Fabric modloader. Alternatively you can also watch the [YouTube Tutorial](https://youtu.be/fG2UQrLSckQ).
+
 - First you want to download the [NIJISANJI EN MOBS & ITEMS](https://modrinth.com/resourcepack/project-nijisanji-en-osrp/version/sD3QuNkx) pack for the Minecraft version you want. Place it in a folder you can access easily.
 - Secondly download the [Fabric Loader](https://fabricmc.net/use/installer/). For the purposes of this tutorial we will use the installer. Place it in the same folder as the Resource Pack.
 ![FabricJar](https://cdn.discordapp.com/attachments/1131312669773795428/1132093341840973884/image.png)

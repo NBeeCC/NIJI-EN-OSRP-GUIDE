@@ -6,7 +6,7 @@ For those who have little to no experience in modding, and just want to get the 
 
 - First you will want to download both Optifine and the Resource Pack. 
 
-Select the [Optifine](https://optifine.net/downloads) version for the Minecraft version you want and select the [NIJISANJI EN MOBS & ITEMS](https://modrinth.com/resourcepack/project-nijisanji-en-osrp/version/sD3QuNkx) pack for the Minecraft version you want. Place them in a folder you know how to access easily.
+Select the [Optifine](https://optifine.net/downloads) version for the Minecraft version you want and select the [NIJISANJI EN MOBS & ITEMS](https://modrinth.com/resourcepack/project-nijisanji-en-osrp/versions) pack for the Minecraft version you want. Place them in a folder you know how to access easily.
 
 ![Optifine](https://cdn.discordapp.com/attachments/1122734119256854602/1131311130380349480/image.png)
 
